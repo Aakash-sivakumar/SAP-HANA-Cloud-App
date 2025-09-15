@@ -1,0 +1,13 @@
+{
+  "role": {
+    "name": "PublicAccessSchemaAsh",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "EXECUTE",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
